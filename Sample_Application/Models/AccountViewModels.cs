@@ -14,6 +14,7 @@ namespace Sample_Application.Models
     {
         public string ReturnUrl { get; set; }
     }
+    //Comment Added Dev Checkin + UI Checkin
     // Removed Comment form VS 
     public class SendCodeViewModel
     {
