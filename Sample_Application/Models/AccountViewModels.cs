@@ -14,7 +14,7 @@ namespace Sample_Application.Models
     {
         public string ReturnUrl { get; set; }
     }
-    //Comment Added Twice 
+    //Comment Added Dev Checkin
     public class SendCodeViewModel
     {
         public string SelectedProvider { get; set; }
